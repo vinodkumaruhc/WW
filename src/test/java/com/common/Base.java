@@ -22,9 +22,6 @@ public class Base {
 
 	}
 
-	public String getExpectedTitle() {
-		String expectedTitle = driver.getTitle();
-		return expectedTitle;
-	}
+	
 
 }

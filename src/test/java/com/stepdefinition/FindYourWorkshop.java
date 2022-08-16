@@ -25,7 +25,7 @@ public class FindYourWorkshop extends Base {
 		String actualTitle = driver.getTitle();
 		
 		System.out.println("Displayed tittle =" + actualTitle);
-		String expectedTitle = getExpectedTitle();
+		String expectedTitle = "Find WW Studios & Meetings Near You | WW USA";
 		
 		// String expectedTitle = Find WW Studios & Meetings Near You | WW USA"
 
